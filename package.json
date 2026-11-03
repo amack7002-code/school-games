@@ -1,0 +1,9 @@
+{
+  "name": "school-games",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node run.js",
+    "blooket": "node run.js blooket.js"
+  }
+}
